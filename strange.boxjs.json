@@ -3,18 +3,8 @@
     "name": "Strange App subscription",
     "author": "@Strangx",
     "icon": "https://avatars.githubusercontent.com/u/77616081?v=4",
-    "repo": "https://github.com/Strangx/BoxJs",
+    "repo": "https://github.com/Strangx/HackBox",
     apps": [
-    {
-      "id": "Github Monitor",
-      "name": "GitHub",
-      "keys": ["@github.repo"],
-      "settings": [
-       "type": "textarea",
-          "autoGrow": true,
-          "rows": 5,
-          "desc": "Warehouse address (JSON format)"
-        },
         {
           "id": "@github.token",
           "name": "Github Token (Optional)",
