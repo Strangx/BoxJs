@@ -1,11 +1,1 @@
-http=sg-sin.pvdata.host:8080,username=dxctor@strangex.onmicrosoft.com, password=212425, over-tls=false, tls-verification=false, fast-open=false, udp-relay=false, tag=Singapore
-
-http=us-chi.pvdata.host:8080,username=dxctor@strangex.onmicrosoft.com, password=212425, over-tls=false, tls-verification=false, fast-open=false, udp-relay=false, tag=United States
-
-http=tw-tai.pvdata.host:8080,username=dxctor@strangex.onmicrosoft.com, password=212425, over-tls=false, tls-verification=false, fast-open=false, udp-relay=false, tag=Taiwan
-
-http=kr-seo.pvdata.host:8080,username=dxctor@strangex.onmicrosoft.com, password=212425, over-tls=false, tls-verification=false, fast-open=false, udp-relay=false, tag=Korea
-
-http=jp-tok.pvdata.host:8080,username=dxctor@strangex.onmicrosoft.com, password=212425, over-tls=false, tls-verification=false, fast-open=false, udp-relay=false, tag=Japan
-
-http=hk-hon.pvdata.host:8080,username=dxctor@strangex.onmicrosoft.com, password=212425, over-tls=false, tls-verification=false, fast-open=false, udp-relay=false, tag=Hong Kong
+http=us-los.pvdata.host:8080,username=dxctor@strangex.onmicrosoft.com,password=212425,over-tls=false,tls-verification=false,fast-open=false,udp-relay=false,tag=United States
