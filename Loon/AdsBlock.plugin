@@ -1,3 +1,4 @@
+[Rule]
 # > Google - *.googlevideo.com,www.youtube.com,s.youtube.com
 
 # ^https?:\/\/[\w-]+\.googlevideo\.com\/.+(&oad|ctier) - reject
