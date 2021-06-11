@@ -4,29 +4,25 @@
     "author": "@Strangx",
     "icon": "https://avatars.githubusercontent.com/u/77616081?v=4",
     "repo": "https://github.com/Strangx/BoxJs",
-    "apps": [
-      {
-        "id": "strange.aqius",
-        "name": "BoxJs",
-        "keys": ["strange_aqi_token"],
-        "settings": [
-          {
-            "id": "strange_aqi_token",
-            "name": "aqicn API Token",
-            "val": "",
-            "type": "textarea",
-            "placeholder": "token",
-            "autoGrow": true,
-            "rows": 3,
-            "desc": ""
-          }
-        ],
-        "author": "@strange",
-        "repo": "https://github.com/Strangx/BoxJs/tree/strange/Script",
-        "icons": [
-          "https://raw.githubusercontent.com/Strangx/Shadowsocks/strange/Icons/Luffy.png",
-          "https://raw.githubusercontent.com/Strangx/Shadowsocks/strange/Icons/stockx-buy-sell-authentic.png.jpeg"
-        ]
+    apps": [
+    {
+      "id": "Github Monitor",
+      "name": "GitHub",
+      "keys": ["@github.repo"],
+      "settings": [
+       "type": "textarea",
+          "autoGrow": true,
+          "rows": 5,
+          "desc": "Warehouse address (JSON format)"
+        },
+        {
+          "id": "@github.token",
+          "name": "Github Token (Optional)",
+          "val": "784a03feb07989d3339dfa41c7eb41777436cbfa",
+          "type": "text",
+          "desc": "Github Token"
+        }
+      ],
       }
     ]
   }
