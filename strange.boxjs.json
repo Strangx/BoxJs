@@ -4,14 +4,29 @@
     "author": "@Strangx",
     "icon": "https://avatars.githubusercontent.com/u/77616081?v=4",
     "repo": "https://github.com/Strangx/HackBox",
-    "apps": [
+     "apps": [
+    {
+      "id": "Github Monitor",
+      "name": "GitHub Monitor",
+      "keys": ["@github.repo"],
+      "settings": [
+
         {
           "id": "@github.token",
           "name": "Github Token (Optional)",
-          "val": "784a03feb07989d3339dfa41c7eb41777436cbfa",
+          "val":
+"784a03feb07989d3339dfa41c7eb41777436cbfa",
           "type": "text",
           "desc": "Github Token"
         }
-           ]
+      ],
+      "author": "@Strangx",
+      "repo": "https://github.com/Strangx/HackBox",
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/mini/master/github.png",
+        "https://raw.githubusercontent.com/Orz-3/task/master/github.png"
+      ],
+      "script": "https://raw.githubusercontent.com/Strangx/HackBox/strange/Script/github.js"
+    },
       
 }
