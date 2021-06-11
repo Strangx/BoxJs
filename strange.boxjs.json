@@ -35,5 +35,10 @@
       ],
       "script": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js"
     },
-      
+            "icons": [
+        "https://raw.githubusercontent.com/58xinian/icon/master/telegram_mini.png",
+        "https://raw.githubusercontent.com/58xinian/icon/master/telegram.png"
+      ]
+    }
+  ]
 }
