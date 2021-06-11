@@ -4,7 +4,7 @@
     "author": "@Strangx",
     "icon": "https://avatars.githubusercontent.com/u/77616081?v=4",
     "repo": "https://github.com/Strangx/HackBox",
-    apps": [
+    "apps": [
         {
           "id": "@github.token",
           "name": "Github Token (Optional)",
