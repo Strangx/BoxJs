@@ -1,43 +1,44 @@
 {
-		"@context": "http://schema.org",
-		"@id": "https://www.apple.com/#organization",
-		"@type": "Organization",
-		"name": "Apple",
-		"url": "https://www.apple.com/",
-		"logo": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?201809210816",
-		"subOrganization": {
-			"@type": "Organization",
-			"name": "Apple Support",
-			"url": "https://support.apple.com",
-	    "@id": "https://support.apple.com/#organization"
-		},
-		"contactPoint": [
-			{
-				"@type": "ContactPoint",
-				"telephone": "+1-800-692-7753",
-				"contactType": "sales",
-				"areaServed": "US"
-			},
-			{
-				"@type": "ContactPoint",
-				"telephone": "+1-800-275-2273",
-				"contactType": "technical support",
-				"areaServed": "US",
-				"availableLanguage": ["EN", "ES"]
-			},
-			{
-				"@type": "ContactPoint",
-				"telephone": "+1-800-275-2273",
-				"contactType": "customer support",
-				"areaServed": "US",
-				"availableLanguage": ["EN", "ES"]
-			}
-		],
-		"sameAs": [
-			"http://www.wikidata.org/entity/Q312",
-			"https://www.youtube.com/user/Apple",
-			"https://www.linkedin.com/company/apple",
-			"https://www.facebook.com/Apple",
-			"https://www.twitter.com/Apple"
-		]
-	}
+    "id": "strange.app.sub",
+    "name": "Strange App subscription",
+    "author": "@Strangx",
+    "icon": "https://avatars.githubusercontent.com/u/77616081?v=4",
+    "repo": "https://github.com/Strangx/BoxJs",
+    "apps": [
+     {
+      "id": "Telegram",
+      "name": "Telegram 频道媒体推送",
+      "keys": ["@telegram.channels", "@telegram.maxMedias"],
+      "settings": [
+        {
+          "id": "@telegram.channels",
+          "name": "频道列表",
+          "val": "[\"ABCD\"]",
+          "type": "textarea",
+          "autoGrow": false,
+          "rows": 2,
+          "desc": "频道列表，比如说一个频道的链接为https://t.me/s/ABCD，那么将\"ABCD\"加到列表中。"
+        },
+        {
+          "id": "@telegram.maxMedias",
+          "name": "每个频道最多显示视频和图片的数量",
+          "val": 3,
+          "type": "text",
+          "rows": 1,
+          "desc": "每个频道最多显示视频和图片的数量, 默认为3"
+        }
+      ],
+      "author": "@Peng-YM",
+      "repo": "https://github.com/Peng-YM/QuanX",
+      "icons": [
+        "https://raw.githubusercontent.com/58xinian/icon/master/telegram_mini.png",
+        "https://raw.githubusercontent.com/58xinian/icon/master/telegram.png"
+      ],
+      "script": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/telegram.js"
+    },
+
+    
+
+]
+     
+}
