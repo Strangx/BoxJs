@@ -1,4 +1,4 @@
-Script]
+[Script]
 http-response ^https?:\/\/.+\.(my10api|(.*91.*))\.(com|tips|app|xyz)(:\d{2,5})?\/api.php$ https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/91.js, requires-body=true, timeout=10, tag=91
 
 
