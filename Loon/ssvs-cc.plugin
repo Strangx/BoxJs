@@ -1,0 +1,8 @@
+[Script]
+^http:\/\/api.*.xyz\/fast-cloud\/user\/info url script-response-body https://raw.githubusercontent.com/sngxpro/QuantumultX/master/tzsp/sngxtz.js
+
+
+[mitm]
+hostname= api.*.xyz
+
+# 下载地址：https://av2.fit?code=ECLCJELC
