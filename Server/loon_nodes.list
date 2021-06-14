@@ -1,0 +1,9 @@
+#Loon custom node format
+ #About subscription traffic analysis: Currently, the Subscription-Userinfo information in the response header will be read, the specific format is as follows: Subscription-Userinfo:upload=1111;download=111;total=123456;expire=1614527045
+ #ss
+ Singapore 🇸🇬 1 = Shadowsocks,68.183.235.224,34191,chacha20-ietf-poly1305,"ToXUs02X2Uvk",fast-open=false,udp=true
+Singapore 🇸🇬 2 = Shadowsocks,156.146.56.137,34687,aes-256-gcm,"txmK9WhwP6WPhP7hqSBLVxpN",fast-open=false,udp=false
+Singapore 🇸🇬 3 = Shadowsocks,156.146.56.137,37588,aes-256-gcm,"kD9vkjnE6dsUzwQfvKkPkQAd",fast-open=false,udp=true
+United States 🇺🇸 = Shadowsocks,104.244.210.139,34687,aes-256-gcm,"txmK9WhwP6WPhP7hqSBLVxpN",fast-open=false,udp=false
+Taiwan 🇹🇼 1 = Shadowsocks,2.58.242.45,37588,aes-256-gcm,"kD9vkjnE6dsUzwQfvKkPkQAd",fast-open=false,udp=true
+Hong Kong 🇭🇰 1 = Shadowsocks,43.129.77.73,13392,chacha20-ietf-poly1305,"5P6WKSTKSiqc",fast-open=false,udp=false
