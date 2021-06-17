@@ -1,0 +1,7 @@
+[URL Rewrite]
+^https:\/\/api\.(.+)\.(cn|com)\/.+ https://cdn.jsdelivr.net/gh/Strangx/HackBox@strange/Script/Lutu.js header
+
+
+
+[MITM]
+hostname = api.shanzhili.net
