@@ -1,12 +1,12 @@
 {
     "version": "1.0",
-    "sourceName": "GBoxå®˜æ–¹è½¯ä»¶æº",
+    "sourceName": "Strange GBox",
     "sourceAuthor": "GBox Official",
-    "sourceLinkTitle": "ä¸»é¡µ",
+    "sourceLinkTitle": "Strange",
     "sourceLinkUrl": "http://gbox.run",
     "sourceImage": "http://gbox.run/Public/images/source.png",
     "sourceUpdateTime": "2021-06-12T12:15:00+0800",
-    "sourceDescription": "GBoxå®˜æ–¹è½¯ä»¶æºï¼Œæºå†…Appå‡æ¥ä¹‹äº’è”ç½‘ï¼Œä»…ç”¨äºŽå­¦ä¹ äº¤æµã€‚å¦‚æœ‰å†’çŠ¯ï¼Œè¯·è”ç³»åˆ é™¤ï¼Œé‚®ç®±ï¼šgboxrun@gmail.com",
+    "sourceDescription": "Strange IPA",
     "appCategories": [
         "å·¥å…·",
         "æ¨¡æ‹Ÿå™¨"
@@ -20,17 +20,7 @@
             "appVersion": "3.3.5",
             "appImage": "https://s1.ax1x.com/2020/04/02/G8OPxA.png",
             "appPlist": "https://gbox.lanzoui.com/iS1FHp66z3a",
-            "appDescription": "5æœˆ08æ—¥æœ€æ–°ç‰ˆï¼Œç­¾åæ­¤AppåŽï¼Œç‚¹å‡»å®‰è£…ï¼Œé—ªé€€å³ä»£è¡¨å‡çº§æˆåŠŸï¼Œæ›´æ–°å†…å®¹:\n1. ä¼˜åŒ–ç­¾åå’Œå…¶ä»–ç»†èŠ‚åŠŸèƒ½"
-        },        
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 1,
-            "appUpdateTime": "2020-02-22T16:10:00+0800",
-            "appName": "å‰é‡Œå‰é‡Œ",
-            "appVersion": "1.2.6",
-            "appImage": "https://s2.ax1x.com/2020/02/22/3MLXVI.png",
-            "appPlist": "https://gbox.lanzoui.com/i9ksypg",
-            "appDescription": "å‰é‡Œå‰é‡Œ(KrKr)æ¨¡æ‹Ÿå™¨"
-        }
+            "appDescription": "GBox"
+        }       
     ]
 }
